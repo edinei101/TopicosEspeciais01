@@ -1,0 +1,19 @@
+TAG UTILIZADA NA ATIVIDADE
+<title></title>
+<div class="page-container"></div>
+<section></section>
+<img src="PATH" alt="TEXTO ALTENATIVO">
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+<p></p>
+p{text-align: justify;}
+<ul><\ul> lista ordenada
+<li><\li> add na lista
+<ol><ol> lista não ordenada
+<a href= <li><\li> </a>
+<strong>"texto"</strong> negrito
+ <footer></footer> rodapé
